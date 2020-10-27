@@ -9,34 +9,6 @@
 693412,acute respiratory distress syndrome (ARDS)
 209397,patient-ventilator dyssynchrony
 409999,weaning
-
-** CIRCULATION
-311736,hemodynamics
-350767,inotropes and vasopressors
-612742,shock
-946085,systolic heart failure (HFrEF)
-430429,diastolic heart failure (HFpEF)
-894689,transpulmonary thermodilution (TDP)
-790386,pulmonary artery catheterization
-272921,coronary artery bypass surgery (CABG)
-928989,ventricular assist devices (VAD)
-381985,extracorporeal life support (ECLS)
-
-** NEUROLOGY
-** INFECTION
-** NEPHROLOGY
-** GASTRO-ENTEROLOGY
-** SURGERY
-** HEMATOLOGY
-** ELEKTROLYTES
-** ENDOCRINOLOGGY
-** GYNAECOLOGY
-** PHARMACOLOGY
-** STATISTICS
-** REFERENCE VALUES
-
-
-
 964628
 587264
 454463
@@ -50,6 +22,18 @@
 737981
 777577
 758893
+
+** CIRCULATION
+311736,hemodynamics
+350767,inotropes and vasopressors
+612742,shock
+946085,systolic heart failure (HFrEF)
+430429,diastolic heart failure (HFpEF)
+894689,transpulmonary thermodilution (TDP)
+790386,pulmonary artery catheterization
+272921,coronary artery bypass surgery (CABG)
+928989,ventricular assist devices (VAD)
+381985,extracorporeal life support (ECLS)
 822039
 198183
 346349
@@ -61,14 +45,18 @@
 213352
 572486
 990746
-269661
-951402
-958180
-862591
-153529
-626576
+
+** NEUROLOGY
+269661,Neurological examination
+951402,Pain
+958180,Anxiety
+862591,Altered consciousness
+153529,Traumatic brain injury
+626576,Status epilepticus
 291882
-325338
+
+** INFECTION
+325338,Antibiotic treatment
 957953
 757768
 600400
@@ -76,12 +64,17 @@
 226689
 849931
 335543
-859277
-189715
-593498
-177357
-735729
-585677
+
+
+** NEPHROLOGY & ELEKTROLYTES
+859277,Acid-base disorders
+189715,Potassium
+593498,Sodium
+177357,Calcium
+735729,Phosphate
+585677,Magnesium
+
+** GASTRO-ENTEROLOGY
 856628
 870748
 518182
@@ -91,6 +84,8 @@
 396025
 242328
 643143
+
+** TRAUMATOLOGY
 765093
 848815
 314193
@@ -100,8 +95,10 @@
 982628
 720657
 100362
-534313
-268051
+
+** HEMATOLOGY
+534313,Anemia
+268051,Coagulation disorders
 641882
 247366
 279610
@@ -109,31 +106,21 @@
 461628
 954997
 219184
-605552
-780387
-704724
-180276
-505820
-540639
-724649
-194844
-483672
-192911
-855066
-995530
-952884
-809840
+
+** ENDOCRINOLOGGY
 534681
 518062
 855709
 750473
 549494
 512001
-948169
-541466
-677821
-755879
-502018
+
+** GYNAECOLOGY
+948169,Eclampsia
+541466,HELLP syndrome
+677821,Amniotic fluid embolism 
+755879,Peripartum cardiomyopathy
+502018,Pharmacotherapy in pregnancy
 805589
 763413
 110095
@@ -141,8 +128,10 @@
 580127
 947236
 254131
-648341
-416440
+
+** PHARMACOLOGY & TOXICOLOGY
+648341,Principles of pharmacology
+416440,Drug toxicity
 103260
 397194
 317175
@@ -150,6 +139,8 @@
 262058
 774464
 911447
+
+** STATISTICS
 868067
 674414
 557118
@@ -158,15 +149,20 @@
 846399
 253889
 291016
-592055
-370062
-103801
-885138
-412688
-838704
-234566
-920306
-150433
+
+** REFERENCE VALUES
+
+
+
+
+
+
+
+
+
+
+
+
 864564
 378203
 734197
