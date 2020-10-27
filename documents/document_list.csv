@@ -1,11 +1,11 @@
-311736;circulation;hemodynamics
-350767;circulation;inotropes and vasopressors
-612742;circulation;shock
-946085;circulation;systolic heart failure (HFrEF)
-430429;circulation;diastolic heart failure (HFpEF)
-894689;circulation;transpulmonary thermodilution (TDP)
-790386;circulation;pulmonary artery catheterization
-272921;circulation;coronary artery bypass surgery (CABG)
+311736,circulation,hemodynamics
+350767,circulation,inotropes and vasopressors
+612742,circulation,shock
+946085,circulation,systolic heart failure (HFrEF)
+430429,circulation,diastolic heart failure (HFpEF)
+894689,circulation,transpulmonary thermodilution (TDP)
+790386,circulation,pulmonary artery catheterization
+272921,circulation,coronary artery bypass surgery (CABG)
 
 
 
