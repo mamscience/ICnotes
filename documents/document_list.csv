@@ -1,14 +1,14 @@
 ** INTRODUCTION
-261081,how to use IC | notes
+261081;how to use IC | notes
 
 ** VENTILATION
-528428,diagnostics
-927762,respiratory failure 
-785576,airway management
-249353,mechanical ventilation
-693412,acute respiratory distress syndrome (ARDS)
-209397,patient-ventilator dyssynchrony
-409999,weaning
+528428;diagnostics
+927762;respiratory failure 
+785576;airway management
+249353;mechanical ventilation
+693412;acute respiratory distress syndrome (ARDS)
+209397;patient-ventilator dyssynchrony
+409999;weaning
 964628
 587264
 454463
@@ -24,16 +24,16 @@
 758893
 
 ** CIRCULATION
-311736,hemodynamics
-350767,inotropes and vasopressors
-612742,shock
-946085,systolic heart failure (HFrEF)
-430429,diastolic heart failure (HFpEF)
-894689,transpulmonary thermodilution (TDP)
-790386,pulmonary artery catheterization
-272921,coronary artery bypass surgery (CABG)
-928989,ventricular assist devices (VAD)
-381985,extracorporeal life support (ECLS)
+311736;hemodynamics
+350767;inotropes and vasopressors
+612742;shock
+946085;systolic heart failure (HFrEF)
+430429;diastolic heart failure (HFpEF)
+894689;transpulmonary thermodilution (TDP)
+790386;pulmonary artery catheterization
+272921;coronary artery bypass surgery (CABG)
+928989;ventricular assist devices (VAD)
+381985;extracorporeal life support (ECLS)
 822039
 198183
 346349
@@ -47,16 +47,16 @@
 990746
 
 ** NEUROLOGY
-269661,Neurological examination
-951402,Pain
-958180,Anxiety
-862591,Altered consciousness
-153529,Traumatic brain injury
-626576,Status epilepticus
+269661;Neurological examination
+951402;Pain
+958180;Anxiety
+862591;Altered consciousness
+153529;Traumatic brain injury
+626576;Status epilepticus
 291882
 
 ** INFECTIOUS DISEASES
-325338,Antibiotic treatment
+325338;Antibiotic treatment
 957953
 757768
 600400
@@ -66,9 +66,9 @@
 335543
 
 
-** NEPHROLOGY\, RHEUMATOLOGY & ELEKTROLYTE DISORDERS
-864564,Acute kidney injury
-378203,Renal replacement therapy
+** NEPHROLOGY, RHEUMATOLOGY & ELEKTROLYTE DISORDERS
+864564;Acute kidney injury
+378203;Renal replacement therapy
 734197
 575628
 999342
@@ -77,12 +77,12 @@
 252936
 583641
 382534
-859277,Acid-base disorders
-189715,Potassium
-593498,Sodium
-177357,Calcium
-735729,Phosphate
-585677,Magnesium
+859277;Acid-base disorders
+189715;Potassium
+593498;Sodium
+177357;Calcium
+735729;Phosphate
+585677;Magnesium
 
 ** GASTRO-ENTEROLOGY
 856628
@@ -107,8 +107,8 @@
 100362
 
 ** HEMATOLOGY
-534313,Anemia
-268051,Coagulation disorders
+534313;Anemia
+268051;Coagulation disorders
 641882
 247366
 279610
@@ -126,11 +126,11 @@
 512001
 
 ** GYNAECOLOGY
-948169,Eclampsia
-541466,HELLP syndrome
-677821,Amniotic fluid embolism 
-755879,Peripartum cardiomyopathy
-502018,Pharmacotherapy in pregnancy
+948169;Eclampsia
+541466;HELLP syndrome
+677821;Amniotic fluid embolism 
+755879;Peripartum cardiomyopathy
+502018;Pharmacotherapy in pregnancy
 805589
 763413
 110095
@@ -140,8 +140,8 @@
 254131
 
 ** PHARMACOLOGY & TOXICOLOGY
-648341,Principles of pharmacology
-416440,Drug toxicity
+648341;Principles of pharmacology
+416440;Drug toxicity
 103260
 397194
 317175
