@@ -9,9 +9,6 @@
 693412,ventilation,acute respiratory distress syndrome (ARDS)
 927762,ventilation,patient-ventilator dyssynchrony
 785576,ventilation,weaning
-249353
-693412
-985709
 
 ** CIRCULATION
 311736,circulation,hemodynamics
@@ -25,7 +22,22 @@
 928989,circulation,ventricular assist devices (VAD)
 381985,circulation,extracorporeal life support (ECLS)
 
+** NEUROLOGY
+** INFECTION
+** NEPHROLOGY
+** GASTRO-ENTEROLOGY
+** SURGERY
+** HEMATOLOGY
+** ELEKTROLYTES
+** ENDOCRINOLOGGY
+** GYNAECOLOGY
+** PHARMACOLOGY
+** STATISTICS
+** REFERENCE VALUES
 
+249353
+693412
+985709
 927762
 785576
 249353
