@@ -7,8 +7,8 @@
 785576,airway management
 249353,mechanical ventilation
 693412,acute respiratory distress syndrome (ARDS)
-927762,patient-ventilator dyssynchrony
-785576,weaning
+209397,patient-ventilator dyssynchrony
+409999,weaning
 
 ** CIRCULATION
 311736,hemodynamics
@@ -35,8 +35,8 @@
 ** STATISTICS
 ** REFERENCE VALUES
 
-209397
-409999
+
+
 964628
 587264
 454463
