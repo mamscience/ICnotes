@@ -10,6 +10,9 @@ IC | notes ultimate goal is to be the primary source of information for all ICU 
 
 
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/MEDnotes/ICnotes">Github</a>
 
-primary webpage development
+## We owe to 
+
+- [docusaurus](https://v2.docusaurus.io/)
+
+IC | notes is build on version 2 of docusaurus. Docusaurus offers great Documentation software. 
