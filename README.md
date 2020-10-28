@@ -1,6 +1,6 @@
 # ICnotes README
 
-We're very to welcome you on the ICnotes Github. We freshly started developing our [website](https://icnotes.org) and we'd love to have you onboard the team.
+We're very happy to welcome you on the ICnotes Github. We freshly started developing our [website](https://icnotes.org) and we'd love to have you onboard the team.
 
 ## Purpuse of IC | notes
 
