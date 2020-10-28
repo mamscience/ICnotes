@@ -13,6 +13,12 @@ IC | notes ultimate goal is to be the primary source of information for all ICU 
 
 ## We owe to 
 
-- [docusaurus](https://v2.docusaurus.io/)
+- [Docusaurus](https://v2.docusaurus.io/)
 
 IC | notes is build on version 2 of docusaurus. Docusaurus offers great Documentation software. 
+
+- [netlifly](https://www.netlify.com/)
+
+- [unDraw](https://undraw.co/)
+
+- [algolia](https://www.algolia.com/)
