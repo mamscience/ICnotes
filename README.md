@@ -15,7 +15,7 @@ IC | notes ultimate goal is to be the primary source of information for all ICU 
 
 - [Docusaurus](https://v2.docusaurus.io/)
 
-IC | notes is build on version 2 of docusaurus. Docusaurus offers great Documentation software. 
+> IC | notes is build on version 2 of docusaurus. Docusaurus offers great Documentation software. 
 
 - [netlifly](https://www.netlify.com/)
 
