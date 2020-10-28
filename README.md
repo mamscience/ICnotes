@@ -10,6 +10,6 @@ IC | notes ultimate goal is to be the primary source of information for all ICU 
 
 
 
-
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/MEDnotes/ICnotes">Github</a>
 
 primary webpage development
