@@ -203,5 +203,11 @@ This is a warning
 
 ## References & citation
 
-### Articles
-{{cite journal |author=Bannen RM |title=Optimal design of thermally stable proteins |journal=Bioinformatics |year=2008 |doi=10.1093/bioinformatics/btn450 }}
+### References at the article's end
+Use curly brackets and "cite journal" indicating a journal citation. Then use a counter and state the DOI. Use a "|" as a delimiter. Authors, title, journal, year of publication and hyperlink will be added automatically.  
+{{cite journal|1|10.1093/bioinformatics/btn450}}
+
+### Inline citation
+Any citation anywhere in the text can be formulated as
+{{cite inline|1}}
+The number refers to the counter at the References section.
