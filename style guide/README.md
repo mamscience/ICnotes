@@ -74,9 +74,10 @@ All images need to be saved in the documents directory. The file name is constru
 
 It is added to the article using {{img|.....}}. Refer to the image number. Make sure to either use a citation counter from the end of the article ("ref=" followed by the reference number) or a direct hyperlink ("hyp="). The add your caption. 
 
+```
 {{img | img_nr=1 | doi=10.1007/s00134-020-06288-9}}
 {{img | img_nr=1 | hyp=https://wikipedia.org|capt="Principles of lung and diaphragm-protective ventilation. ΔP: change in airway pressure during inspiration; PEEP: positive end-expiratory pressure; P-SILI: patient self-inflicted lung injury; VILI: ventilator-induced lung injury; VT: tidal volume"}}
-
+```
 ---
 
 ## Code
@@ -191,9 +192,9 @@ This is a warning
 
 ### References at the article's end
 Use curly brackets and "cite journal" indicating a journal citation. Then use a counter and state the DOI. Use a "|" as a delimiter. Authors, title, journal, year of publication and hyperlink will be added automatically.  
-{{cite journal | ref_nr=1 | doi=10.1093/bioinformatics/btn450}}
+```{{cite journal | ref_nr=1 | doi=10.1093/bioinformatics/btn450}}```
 
 ### Inline citation
 Any citation anywhere in the text can be formulated as
-{{cite inline | ref_nr=1}}
+```{{cite inline | ref_nr=1}}```
 The number refers to the counter at the References section.
