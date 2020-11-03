@@ -76,7 +76,7 @@ It is added to the article using {{img|.....}}. Refer to the image number. Make 
 
 ```
 {{img | img_nr=1 | doi=10.1007/s00134-020-06288-9}}
-{{img | img_nr=1 | hyp=https://wikipedia.org|capt="Principles of lung and diaphragm-protective ventilation. ΔP: change in airway pressure during inspiration; PEEP: positive end-expiratory pressure; P-SILI: patient self-inflicted lung injury; VILI: ventilator-induced lung injury; VT: tidal volume"}}
+{{img | img_nr=1 | hyp=https://wikipedia.org | capt="Some text about the picture"}}
 ```
 ---
 
