@@ -37,10 +37,8 @@ Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses two tildes. ~~Scratch this.~~
 
 ### Superscript and subscript
-`
-<sup>...<sup>
-<sub>...<sub>
-`
+`<sup>...<sup>` or `<sub>...<sub>`
+
 Example:
 Tidal volume is writting as 
 ```
