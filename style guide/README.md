@@ -36,6 +36,13 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+### Superscript and subscript
+<sup>....</sup>
+<sub>....</sub>
+
+Example:
+Tidal volume is writting as V<sub>T</sub>
+
 ---
 
 ## Lists
@@ -55,41 +62,14 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ---
 
-## Links
-
-[I'm an inline-style link](https://www.google.com/)
-
-[I'm an inline-style link with title](https://www.google.com/ "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com/ or <http://www.example.com/> and sometimes example.com (but not on GitHub, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org/
-[1]: http://slashdot.org/
-[link text itself]: http://www.reddit.com/
-
----
-
 ## Images
 
-Here's our logo (hover to see the title text):
+All images need to be saved in the documents directory. The file name is constructed from the article id and counter like "2323423_1.png". 
 
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
+It is added to the article using {{img|.....}}. Refer to the image number. Make sure to either use a citation counter from the end of the article ("ref=" followed by the reference number) or a direct hyperlink ("hyp="). The add your caption. 
 
-Reference-style: ![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
-
-Images from any folder can be used by providing path to file. Path should be relative to markdown file.
-
-![img](../static/img/logo.svg)
+{{img | img_nr=1 | doi=10.1007/s00134-020-06288-9}}
+{{img | img_nr=1 | hyp=https://wikipedia.org|capt="Principles of lung and diaphragm-protective ventilation. ΔP: change in airway pressure during inspiration; PEEP: positive end-expiratory pressure; P-SILI: patient self-inflicted lung injury; VILI: ventilator-induced lung injury; VT: tidal volume"}}
 
 ---
 
@@ -201,13 +181,13 @@ This is a warning
 
 :::
 
-## References & citation
+## References, citation & hyperlinks
 
 ### References at the article's end
 Use curly brackets and "cite journal" indicating a journal citation. Then use a counter and state the DOI. Use a "|" as a delimiter. Authors, title, journal, year of publication and hyperlink will be added automatically.  
-{{cite journal|1|10.1093/bioinformatics/btn450}}
+{{cite journal | ref_nr=1 | doi=10.1093/bioinformatics/btn450}}
 
 ### Inline citation
 Any citation anywhere in the text can be formulated as
-{{cite inline|1}}
+{{cite inline | ref_nr=1}}
 The number refers to the counter at the References section.
