@@ -12,9 +12,9 @@ To serve as an example page when styling markdown based Docusaurus sites.
 
 ## Headers
 
-# H1 - Create the best documentation
+# H1 - No need to use this one (the article title is added automatically)
 
-## H2 - Create the best documentation
+## H2 - Regular captation
 
 ### H3 - Create the best documentation
 
@@ -200,3 +200,8 @@ This is a caution
 This is a warning
 
 :::
+
+## References & citation
+
+### Articles
+{{cite journal |author=Bannen RM |title=Optimal design of thermally stable proteins |journal=Bioinformatics |year=2008 |doi=10.1093/bioinformatics/btn450 }}
