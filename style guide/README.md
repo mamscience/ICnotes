@@ -42,7 +42,12 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 <sub>...<sub>
 ```
 Example:
-Tidal volume is writting as V<sub>T</sub>
+Tidal volume is writting as 
+```
+V<sub>T</sub>
+```
+showing
+V<sub>T</sub>
 
 ---
 
